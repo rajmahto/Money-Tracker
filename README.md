@@ -3,6 +3,7 @@ The Money Tracker Application is a simple yet powerful tool designed to help use
 
 
 
+![Money Tracker Screenshot](./Screenshot%20(266).png)
 
 
 
