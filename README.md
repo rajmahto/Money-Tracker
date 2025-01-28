@@ -1,3 +1,30 @@
+# Money Tracker Application
+The Money Tracker Application is a simple yet powerful tool designed to help users manage their finances efficiently. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this application provides an intuitive interface for tracking income, expenses, and overall budget performance.
+
+
+![ScreenSort](./screenshots/image-file-name.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
